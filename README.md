@@ -1,7 +1,10 @@
 # Module 1 Challenge
 
 
-
+In this challenge the Horiseon webpage is refactored and its issues were resolved.
+The cementic Html was dealt with and also the html and css.
+The webpage meets the marketing agencies wants and needs.
+Users are now able to navigate through the Horiseon webpage.
 
 
 
